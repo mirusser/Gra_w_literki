@@ -1,0 +1,9 @@
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\bin\Debug\Gra_w_literki.exe.config
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\bin\Debug\Gra_w_literki.exe
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\bin\Debug\Gra_w_literki.pdb
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.Form1.resources
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.Properties.Resources.resources
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.csproj.GenerateResource.Cache
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.exe
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.pdb
+c:\users\mirek\documents\visual studio 2013\Projects\Gra_w_literki\Gra_w_literki\obj\Debug\Gra_w_literki.csprojResolveAssemblyReference.cache
